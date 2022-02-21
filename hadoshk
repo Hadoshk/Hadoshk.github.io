@@ -1,0 +1,50 @@
+<!DOCTYPE html> 
+<html lang="fr">     
+
+	<head>         
+		<meta charset = "utf-8">         
+		<title>Travis Scott</title>  	
+		<link rel="stylesheet" href="style.css" type="text/css">
+		
+	</head>
+	<body> 	
+			<nav class="menu-nav">
+				<ul>
+						<li class="btn">
+							<a href="page2.html" >
+							Les meilleurs sons de Travis Scott
+							</a>
+				</ul>
+			</nav>
+
+			<h1>Le rappeur des US: Travis Scott ! </h1>     
+			<h2>
+				<img src="travis.jpg">
+				<li>Album réaliser :  
+					<ol>		
+						<li>	2013. Owl Pharaoh.</li>
+						<li>	2014. Days Before Rodeo.</li>
+						<li>	2015. Rodeo.</li> 	
+						<li>	2016. Birds in the Trap Sing McKnight.</li>
+						<li>	2018. ASTROWORLD. </li>
+					</ol>		
+				</li>
+				
+			</h2> 
+						  
+			<h3>biographie du maxi bg:  </h3> 
+							<p>     Travis Scott, anciennement stylisé Travi$ Scott, de son vrai nom Jacques Berman Webster II,
+							né le 30 avril 1991 à Houston au Texas, est un rappeur, chanteur, producteur, musicien, acteur, mannequin et réalisateur américain.
+							Il a aussi collaboré avec beaucoup de grandes marques.<br>
+							Il est signé sur les labels Grand Hustle et Epic, ainsi que sur le label de Kanye West, GOOD Music, comme producteur.<br>
+							Il publie sa première mixtape intitulée Owl Pharaoh le 22 mai 2013, suivie par une deuxième mixtape, Days Before Rodeo, le 18 août 2014.
+							Son premier album, Rodeo, est publié le 4 septembre 2015 et son deuxième, Birds in the Trap Sing McKnight, sort le 2 septembre 2016.
+							ASTROWORLD qui est le nom de son troisième et dernier album à ce jour est quant à lui publié le 3 août 2018. </p>
+					
+			<footer>
+				<a href="contacter.html" target="_BLANK">Me contacter !</a>
+			</footer>
+							
+					
+	</body>
+ </html> 
